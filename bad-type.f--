@@ -1,0 +1,12 @@
+INTEGER A, B
+BOOLEAN C
+I=56
+WHILE C.LE.95 DO
+	C = I .EQ. (I/2*2)
+	IF (B) THEN
+      I = J /2
+   END
+   IF (J.NE. (I/2)*2) THEN
+      I = C + 3
+   END
+END
